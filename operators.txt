@@ -1,0 +1,18 @@
+This is an extra document that includes all the operators should need/
+
+Comparison Operators
+Operator | Meaning
+    < | Less Than
+    <= | Less Than or Equal To
+    > | Greater Than
+    >= | Greater Than or Equal To
+    == | Equal To
+    != | Not Equal
+
+Augmented Assignment Operators
+Operator | Equivalent Statement | What
+    += 1 | x = x + 1 | Add to
+    -= 1 | x = x - 1 | Subract
+    *= 1 | x = x * 1 | Multiply
+    /= 1 | x = x / 1 | Divide
+    ?- 1 | x = x % 1 | Modulus(?)
